@@ -1,0 +1,8 @@
+2018-03-29 14:36:12 DEBUG Log4jTesting:22 - start initialization
+2018-03-29 14:36:18 INFO  Log4jTesting:27 - maximize the window
+2018-05-01 14:11:33 INFO  Log4jTesting:27 - maximize the window
+2018-05-01 14:11:33 DEBUG Log4jTesting:28 - start initialization
+2018-05-01 14:11:41 INFO  Log4jTesting:32 - navigating to freecrm
+2018-05-01 14:11:48 INFO  Log4jTesting:27 - maximize the window
+2018-05-01 14:11:48 DEBUG Log4jTesting:28 - start initialization
+2018-05-01 14:11:54 INFO  Log4jTesting:32 - navigating to freecrm
